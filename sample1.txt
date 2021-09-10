@@ -1,1 +1,2 @@
 This is sample file 1
+Git reset commit 1.
